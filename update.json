@@ -1,10 +1,10 @@
 {
   "packageName": "com.arcane.android",
   "abi": "arm64-v8a",
-  "versionCode": 13,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-13/Arcane-arm64.apk",
-  "sha256": "991d0fbfc3791b3ff11fa003257fe8bf96e72564f31a0971c09cae02c5af76e7",
-  "sizeBytes": 90007985,
-  "notes": ""
+  "versionCode": 14,
+  "versionName": "1.0.20",
+  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-14/Arcane-arm64.apk",
+  "sha256": "779b5ddb5287f319e4da42010fb1b497b5b7ecc120796cab0617ad4dbd5c46a7",
+  "sizeBytes": 90039565,
+  "notes": "记忆画面裁剪\n"
 }
