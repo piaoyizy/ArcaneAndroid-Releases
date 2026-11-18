@@ -1,10 +1,10 @@
 {
   "packageName": "com.arcane.android",
   "abi": "arm64-v8a",
-  "versionCode": 42,
-  "versionName": "1.0.27",
-  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-42/Arcane-arm64.apk",
-  "sha256": "74ad6affe4bd3c83ec015d586265271b214d19f975844e0cae6d1ac0eedb33a8",
-  "sizeBytes": 90284703,
+  "versionCode": 45,
+  "versionName": "1.0.28",
+  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-45/Arcane-arm64.apk",
+  "sha256": "b382172ddbeb50e5d5fe1f504d4030691f76d826a0b94797692d7a4c7066e8ad",
+  "sizeBytes": 90285187,
   "notes": "江湖有缘再见。\n"
 }
