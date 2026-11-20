@@ -1,10 +1,10 @@
 {
   "packageName": "com.arcane.android",
   "abi": "arm64-v8a",
-  "versionCode": 65,
-  "versionName": "1.0.46",
-  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-65/Arcane-arm64.apk",
-  "sha256": "9ba634125ce6377d7466f78c6bddc9fd7f7b53596ff04246b2dd1daf5162237c",
-  "sizeBytes": 80463204,
+  "versionCode": 66,
+  "versionName": "1.0.47",
+  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-66/Arcane-arm64.apk",
+  "sha256": "78db54ac81fca430404733e60abe69c28d1c7c540f4a8985bd62ef200393634f",
+  "sizeBytes": 80464144,
   "notes": ""
 }
