@@ -1,11 +1,11 @@
 {
   "packageName": "com.arcane.android",
   "abi": "arm64-v8a",
-  "versionCode": 132,
-  "versionName": "1.0.52-beta.17",
-  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-132/Arcane-arm64.apk",
-  "sha256": "08dd89c86fe32d9efc0f1ab8e8b2d4c039f207f8815025f08d8e135bc0b9ae7f",
-  "sizeBytes": 80917816,
-  "notes": "- 支持某猫源接口的type:7\n",
+  "versionCode": 133,
+  "versionName": "1.0.52-beta.18",
+  "apkUrl": "https://github.com/piaoyizy/ArcaneAndroid-Releases/releases/download/android-133/Arcane-arm64.apk",
+  "sha256": "7f864daeadc5968b459a936ea01f3cb5fceffd0ff4c5cb5098e7a564f7515a9a",
+  "sizeBytes": 80920832,
+  "notes": "- 修复一些已知bug，更新一些未知bug\n",
   "channel": "beta"
 }
